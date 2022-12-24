@@ -23,3 +23,6 @@ O dia a dia de um QA: A prática de testes manuais funcionais
     2 casos de teste utilizando técnica step-by-step (no mínimo) com a configuração que preferir;
     
     2 casos de teste utilizando BDD (no mínimo)
+    
+    
+    https://www.saucedemo.com/
